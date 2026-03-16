@@ -1,0 +1,9 @@
+{
+  "flux_path": "base_model",
+  "prompt": "",
+  "align_method": "adain",
+  "process_size": 512,
+  "mid_timestep": 244,
+  "upscale": 4,
+  "weight_dtype": "bf16"
+}
