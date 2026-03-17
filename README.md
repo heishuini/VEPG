@@ -27,7 +27,7 @@ notes: If you need to run `eval.py` to evaluate metrics, we recommend creating a
 
 we provide `base_model` folder in Google Drive, you should copy it to `VEPG/model_zoo/team05_VEPG`
 
-If you download the shards, you should put the shard parts into `VEPG/model_zoo/team05_VEPG/base_model/transformer`
+NOTES: If you download the shards, you should separately download `base_model/transformer/diffusion_pytorch_model.safetensors`, which is 7.21GB, ensuring the name matches.
 
 - lora_adapter
 
