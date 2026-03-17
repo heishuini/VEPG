@@ -43,7 +43,7 @@ we provide `test.sh`, modify the path and then run `bash test.sh`
 ### 4. results & factsheet
 we provide `val` and `test` results by our model in Google Drive.
 
-we provide `factsheet` in `VEPG/factsheet`
+we provide `factsheet` in `05_VEPG_factsheet.zip`
 
 ### 5. contact
 fengkaizhang@njust.edu.cn
