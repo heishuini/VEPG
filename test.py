@@ -23,7 +23,7 @@ def select_model(args, device):
         model_func = DAT
     elif model_id == 5:
         import importlib.util
-        name = "05_VEPG"
+        name = "team05_VEPG"
         model_path = os.path.join('model_zoo', name)
         io_path = os.path.join("models", name, "io.py")
         spec = importlib.util.spec_from_file_location("vepg_io", io_path)
