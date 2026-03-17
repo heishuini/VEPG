@@ -27,6 +27,8 @@ notes: If you need to run `eval.py` to evaluate metrics, we recommend creating a
 
 we provide `base_model` folder in Google Drive, you should copy it to `VEPG/model_zoo/team05_VEPG`
 
+If you download the shards, you should put the shard parts into `VEPG/model_zoo/team05_VEPG/base_model/transformer`
+
 - lora_adapter
 
 we provide `model_lora_weights` folder in Google Drive, you should copy it to `VEPG/model_zoo/team05_VEPG`
