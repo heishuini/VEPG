@@ -794,7 +794,7 @@ class VEPG(torch.nn.Module):
         # )
 
         self._prompt_embeds, self._text_ids = load_prompt_embeds(
-            load_path="./model_zoo/05_VEPG/prompt_embeds.pt",
+            load_path="./model_zoo/team05_VEPG/prompt_embeds.pt",
             device=str(device),
             weight_dtype=self._weight_dtype,
         )

@@ -133,7 +133,7 @@ run.sh
 *_old*
 
 # new
-model_zoo/05_VEPG_2
-model_zoo/05_VEPG/base_model
-model_zoo/05_VEPG/model_lora_weights*
-model_zoo/05_VEPG/model_lora_weights_2
+model_zoo/team05_VEPG_2
+model_zoo/team05_VEPG/base_model
+model_zoo/team05_VEPG/model_lora_weights*
+model_zoo/team05_VEPG/model_lora_weights_2

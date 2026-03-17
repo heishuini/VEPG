@@ -24,15 +24,15 @@ notes: If you need to run `eval.py` to evaluate metrics, we recommend creating a
 ### 2. weights
 - base model
 
-we provide `base_model` folder in Google Drive, you should copy it to `NTIRE2026_ImageSR_x4/model_zoo/05_VEPG`
+we provide `base_model` folder in Google Drive, you should copy it to `NTIRE2026_ImageSR_x4/model_zoo/team05_VEPG`
 
 - lora_adapter
 
-we provide `model_lora_weights` folder in Google Drive, you should copy it to `NTIRE2026_ImageSR_x4/model_zoo/05_VEPG`
+we provide `model_lora_weights` folder in Google Drive, you should copy it to `NTIRE2026_ImageSR_x4/model_zoo/team05_VEPG`
 
 - prompt_embeds.pt
 
-in Google Drive, you should copy it to `NTIRE2026_ImageSR_x4/model_zoo/05_VEPG`
+in Google Drive, you should copy it to `NTIRE2026_ImageSR_x4/model_zoo/team05_VEPG`
 
 ### 3. test
 we provide `test.sh`, modify the path and then run `bash test.sh`

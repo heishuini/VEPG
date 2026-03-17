@@ -1,9 +1,10 @@
-Donwload link for 05_VEPG folder
-...
+Donwload link for team05_VEPG folder:
+
+https://drive.google.com/drive/folders/1v5XoOekZa-Qug8BUJyB8VIQ94weC_HpD?usp=drive_link
 
 ```
 -- model_zoo
-    |-- 05_VEPG
+    |-- team05_VEPG
         |-- base_model
             |-- scheduler
                 |-- scheduler_config.json
