@@ -27,7 +27,9 @@ notes: If you need to run `eval.py` to evaluate metrics, we recommend creating a
 
 we provide `base_model` folder in Google Drive, you should copy it to `VEPG/model_zoo/team05_VEPG`
 
-NOTES: If you download the shards, you should separately download `base_model/transformer/diffusion_pytorch_model.safetensors`, which is 7.21GB, ensuring the name matches.
+NOTES: If you download the shards, you should separately download `base_model/transformer/diffusion_pytorch_model.safetensors`, which is 7.21GB, ensuring the name matches. 
+
+NOTES: If you find something wrong with the base model weights, we use the same weights in: https://huggingface.co/black-forest-labs/FLUX.2-klein-base-4B/tree/main
 
 - lora_adapter
 
